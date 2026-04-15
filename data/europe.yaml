@@ -279,9 +279,10 @@
   lat: 41.568494
   long: 2.009952
   address: C/ Cervantes 109, 08221 Terrassa, Spain
-  description: INSAION is a specialized monitoring and observability platform that integrates natively with the 
-    ROS2 ecosystem to provide deep visibility into robotic fleet performance. By leveraging the MCAP standard, it
-    seamlessly unifies data logging and real-time telemetry into a streamlined workflow for scalable robotics operations.
+  description: INSAION is a specialized monitoring and observability platform that integrates natively
+    with the ROS2 ecosystem to provide deep visibility into robotic fleet performance. By leveraging the
+    MCAP standard, it seamlessly unifies data logging and real-time telemetry into a streamlined workflow
+    for scalable robotics operations.
   link: https://insaion.com
 - name: IXION, Smart Automation
   type: company
